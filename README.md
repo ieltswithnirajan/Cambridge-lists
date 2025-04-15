@@ -9,8 +9,6 @@ This repository contains a collection of IELTS preparation materials, including 
 
 - **Cambridge IELTS Practice Tests**
   - `Cambridge IELTS 01/`
-    - `Cambridge IELTS 01.pdf`
-    - `ielts 1 Test 1.mp3`
   - `Cambridge IELTS 02/`
   - `Cambridge IELTS 03/`
   - `Cambridge IELTS 04/`
